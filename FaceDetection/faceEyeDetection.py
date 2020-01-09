@@ -1,9 +1,5 @@
 '''
 Haar Cascade Face and Eye detection with OpenCV  
-	Based on tutorial by pythonprogramming.net
-    Visit original post: https://pythonprogramming.net/haar-cascade-face-eye-detection-python-opencv-tutorial/  
-
-Adapted by Marcelo Rovai - MJRoBot.org @ 22Feb2018 
 '''
 
 import numpy as np
